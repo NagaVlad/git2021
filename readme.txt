@@ -27,3 +27,18 @@ git merge
 
   git config --global user.email "you@gmail.com"
   git config --global user.name "Vasua Pupkin"
+
+
+  mkdir new-fold
+  git clone https://github.com/NagaVlad/git2021.git
+
+
+
+  //////
+  gid add.
+  status
+  commit
+  push
+  /////
+git pull (забрать изменения)
+
