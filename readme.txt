@@ -20,3 +20,10 @@ git brach -D test
 git checkout test
 git checkout -b newbrach
 
+
+
+git merge 
+
+
+  git config --global user.email "you@gmail.com"
+  git config --global user.name "Vasua Pupkin"
